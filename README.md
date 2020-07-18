@@ -1,5 +1,13 @@
 ### Hi I'm Gerald Solano 👋
 
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS ],
+  tools: [React,React Native, Redux, Node, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "design system pattern"]
+}
+```
 <!--
 **GeraldSolano18/GeraldSolano18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
