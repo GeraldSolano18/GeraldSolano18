@@ -1,4 +1,4 @@
-### Hi I'm Gerald Solano 👋
+### Hi I'm Gerald Solano 👋 👨‍💻
 
 ```javascript
 const GeraldSolano18 = {
