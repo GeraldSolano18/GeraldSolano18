@@ -8,7 +8,7 @@ I am a professional with a vocation and an entrepreneurial spirit, a technologic
 - Front-end development using **React, VanillaJS**
 - Backend development using **Node, Express**
 - Mobile application development using **React Native, Flutter**
-- Project Management and CD/CI using **Git Actions, Docker, kubernetes **
+- Project Management and CD/CI using **Git Actions, Docker, kubernetes**
 
 ## 📫 Contact Me
 - LinkedIn - [Gerald Solano](https://www.linkedin.com/in/gerald-antonio-solano-mac%C3%ADas-b316ab1ab/)
