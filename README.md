@@ -1,8 +1,7 @@
 ### Hi I'm Gerald Solano 👋
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
+const GeraldSolano18 = {
   code: [Javascript, Typescript, HTML, CSS ],
   tools: [React,React Native, Redux, Node, Styled-Components, Jest, Docker],
   architecture: ["microservices", "design system pattern"]
