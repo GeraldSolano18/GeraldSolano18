@@ -1,4 +1,5 @@
 ### Hi I'm Gerald Solano 👋 👨‍💻
+![Gerald antonio SOlano-min (2)](https://user-images.githubusercontent.com/45377873/87843279-726f2380-c870-11ea-810e-da2b37963315.png)
 
 ```javascript
 const GeraldSolano18 = {
