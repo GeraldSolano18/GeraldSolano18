@@ -1,5 +1,4 @@
 ### Hi I'm Gerald Solano <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-![Gerald antonio SOlano-min (2)](https://user-images.githubusercontent.com/45377873/87843279-726f2380-c870-11ea-810e-da2b37963315.png)
 
 ## 🧐 About
 I am a professional with a vocation and an entrepreneurial spirit, a technological and business leader. I am committed to the development and promotion of technology in my country.
