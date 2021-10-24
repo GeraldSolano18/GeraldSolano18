@@ -4,10 +4,11 @@
 I am a professional with a vocation and an entrepreneurial spirit, a technological and business leader. I am committed to the development and promotion of technology in my country.
 
 ## ⚡ Technologies
-- Front-end development using **React, VanillaJS**
-- Backend development using **Node, Express**
-- Mobile application development using **React Native, Flutter**
-- Project Management and CD/CI using **Git Actions, Docker, kubernetes**
+- Front-end development using **React, VanillaJS, TypeScript**
+- DB **MONGO DB, POSTGREST**
+- Backend development using **Node, Express, GraphQL**
+- Mobile application development using **React Native**
+- Project Management and CD/CI using **Git Actions, Docker**
 
 ## 📫 Contact Me
 - LinkedIn - [Gerald Solano](https://www.linkedin.com/in/gerald-antonio-solano-mac%C3%ADas-b316ab1ab/)
